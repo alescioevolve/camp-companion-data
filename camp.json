@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-09T03:12:11.703Z",
+ "updatedAt": "2026-10-09T03:12:48.441Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -1943,7 +1943,7 @@
    "id": "n1791466303957",
    "title": "Test Announcement ",
    "body": "Demo Announcement ",
-   "urgent": false,
+   "urgent": true,
    "from": "2026-10-08",
    "to": "2026-10-09",
    "postedAt": "2026-10-08T13:31:43.957Z",
