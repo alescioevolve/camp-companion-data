@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-10T10:46:46.979Z",
+ "updatedAt": "2026-10-10T11:13:31.697Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -2181,9 +2181,9 @@
     "name": "Inter-Platoon Debate Competition",
     "d": "2026-10-10",
     "places": [
-     "",
-     "",
-     "",
+     "1",
+     "9",
+     "2",
      ""
     ],
     "note": "Topic: Start a successful career and business through personal community development project: A Call To Leadership"
