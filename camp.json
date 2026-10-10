@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-10T10:44:39.000Z",
+ "updatedAt": "2026-10-10T10:46:46.979Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -2060,12 +2060,11 @@
     "name": "Inter-Platoon Talent Hunt / Comedy Night",
     "d": "2026-10-05",
     "places": [
-     "7",
      "1",
-     "5",
+     "2",
+     "3",
      ""
-    ],
-    "sample": true
+    ]
    },
    {
     "id": "s-cultural",
@@ -2073,12 +2072,11 @@
     "name": "Inter-Platoon Cultural Dance Competition",
     "d": "2026-10-07",
     "places": [
-     "10",
-     "4",
-     "7",
+     "2",
+     "3",
+     "5",
      ""
-    ],
-    "sample": true
+    ]
    },
    {
     "id": "s-drama",
