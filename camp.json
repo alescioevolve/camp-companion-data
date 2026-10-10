@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-10T09:47:27.000Z",
+ "updatedAt": "2026-10-10T10:44:39.000Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -784,11 +784,17 @@
    ],
    [
     "09:50",
-    "11:30",
+    "10:30",
     "NITDA Sensitization / Mind the Gap Digital Skills and Leadership Programme"
    ],
    [
-    "11:30",
+    "10:30",
+    "12:30",
+    "Inter-Platoon Debate Competition",
+    "Topic: Start a successful career and business through personal community development project: A Call To Leadership"
+   ],
+   [
+    "12:30",
     "13:00",
     "Fire Safety Lecture"
    ],
