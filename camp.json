@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-09T03:24:31.000Z",
+ "updatedAt": "2026-10-10T09:29:13.000Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -2024,5 +2024,153 @@
    "by": "Alescio"
   }
  ],
- "bestLosers": {}
+ "bestLosers": {},
+ "standings": {
+  "visible": false,
+  "points": [
+   10,
+   7,
+   5,
+   3
+  ],
+  "adjust": [],
+  "events": [
+   {
+    "id": "s-dancehall",
+    "kind": "social",
+    "name": "Inter-Platoon Dance Hall Competition",
+    "d": "2026-10-03",
+    "places": [
+     "4",
+     "3",
+     "10",
+     ""
+    ],
+    "sample": true
+   },
+   {
+    "id": "s-talent",
+    "kind": "social",
+    "name": "Inter-Platoon Talent Hunt / Comedy Night",
+    "d": "2026-10-05",
+    "places": [
+     "7",
+     "1",
+     "5",
+     ""
+    ],
+    "sample": true
+   },
+   {
+    "id": "s-cultural",
+    "kind": "social",
+    "name": "Inter-Platoon Cultural Dance Competition",
+    "d": "2026-10-07",
+    "places": [
+     "10",
+     "4",
+     "7",
+     ""
+    ],
+    "sample": true
+   },
+   {
+    "id": "s-drama",
+    "kind": "social",
+    "name": "Inter-Platoon Drama Competition",
+    "d": "2026-10-09",
+    "places": [
+     "2",
+     "6",
+     "9",
+     ""
+    ],
+    "sample": true
+   },
+   {
+    "id": "s-oldschool",
+    "kind": "social",
+    "name": "Old-school Night",
+    "d": "2026-10-10",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "s-petite",
+    "kind": "social",
+    "name": "Miss Petite / Mr Tall and Handsome",
+    "d": "2026-10-12",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "a-final",
+    "kind": "athletics",
+    "name": "Athletics final",
+    "d": "2026-10-13",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "s-bbb",
+    "kind": "social",
+    "name": "Miss Big Bold & Beautiful / Mr Big Bold & Handsome",
+    "d": "2026-10-13",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "s-missnysc",
+    "kind": "social",
+    "name": "Miss NYSC & Mr Macho",
+    "d": "2026-10-14",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "s-choreo",
+    "kind": "social",
+    "name": "Inter-Platoon Choreography Competition",
+    "d": "2026-10-15",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "id": "s-carnival",
+    "kind": "social",
+    "name": "Cultural Carnival",
+    "d": "2026-10-17",
+    "places": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   }
+  ]
+ }
 }
