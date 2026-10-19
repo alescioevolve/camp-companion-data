@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-10T11:13:31.697Z",
+ "updatedAt": "2026-10-19T04:31:29.000Z",
  "updatedBy": "Alescio",
  "days": {
   "2026-09-30": [
@@ -1423,57 +1423,57 @@
    [
     "05:30",
     "05:40",
-    "National Anthems and Meditation"
+    "National/NYSC Anthem and Meditation"
    ],
    [
     "05:40",
-    "06:00",
+    "06:30",
     "Attendance by Platoon Officers"
    ],
    [
-    "06:00",
-    "07:25",
-    "Physical Training / Drills / Language Study"
+    "06:30",
+    "07:30",
+    "Physical Training and Drills / Camp Thanksgiving"
    ],
    [
     "07:30",
-    "08:55",
-    "Breakfast"
+    "09:00",
+    "Bath and Breakfast"
    ],
    [
     "09:00",
-    "09:45",
-    "NYSC Lecture (Recap)"
+    "11:30",
+    "CW&HS / CI&M Recap Lecture"
    ],
    [
-    "09:50",
+    "11:30",
     "12:00",
-    "State Coordinator's Debriefing of Corps Members and Introduction of Field Officers"
+    "Interlude"
    ],
    [
     "12:00",
     "14:00",
-    "Personal Administration"
+    "SAED Training Recap Lecture"
    ],
    [
     "14:00",
-    "15:50",
+    "16:00",
     "Lunch and Siesta"
    ],
    [
     "16:00",
     "18:30",
-    "Final Parade Rehearsals"
+    "Drills / Man 'O' War / Martial Arts"
    ],
    [
     "18:30",
-    "20:20",
+    "20:15",
     "Dinner"
    ],
    [
-    "20:30",
+    "20:15",
     "22:00",
-    "Social Activities"
+    "DG's Debriefing"
    ],
    [
     "22:00",
