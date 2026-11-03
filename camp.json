@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-19T04:31:29.000Z",
+ "updatedAt": "2026-11-03T06:55:54.000Z",
  "updatedBy": "Alescio",
  "days": {
-  "2026-09-30": [
+  "2026-11-04": [
    [
     "05:20",
     "07:25",
@@ -45,7 +45,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-01": [
+  "2026-11-05": [
    [
     "05:20",
     "05:30",
@@ -102,7 +102,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-02": [
+  "2026-11-06": [
    [
     "05:20",
     "05:30",
@@ -165,7 +165,7 @@
     "Registration closes at midnight tonight"
    ]
   ],
-  "2026-10-03": [
+  "2026-11-07": [
    [
     "05:20",
     "05:30",
@@ -257,7 +257,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-04": [
+  "2026-11-08": [
    [
     "05:20",
     "07:25",
@@ -309,7 +309,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-05": [
+  "2026-11-09": [
    [
     "05:20",
     "05:30",
@@ -396,7 +396,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-06": [
+  "2026-11-10": [
    [
     "05:20",
     "05:30",
@@ -478,7 +478,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-07": [
+  "2026-11-11": [
    [
     "05:20",
     "05:30",
@@ -570,7 +570,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-08": [
+  "2026-11-12": [
    [
     "05:20",
     "05:30",
@@ -662,7 +662,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-09": [
+  "2026-11-13": [
    [
     "05:20",
     "05:30",
@@ -751,7 +751,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-10": [
+  "2026-11-14": [
    [
     "05:20",
     "05:30",
@@ -844,7 +844,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-11": [
+  "2026-11-15": [
    [
     "05:20",
     "07:25",
@@ -891,7 +891,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-12": [
+  "2026-11-16": [
    [
     "05:20",
     "05:30",
@@ -983,7 +983,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-13": [
+  "2026-11-17": [
    [
     "05:20",
     "05:30",
@@ -1080,7 +1080,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-14": [
+  "2026-11-18": [
    [
     "05:20",
     "05:30",
@@ -1172,7 +1172,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-15": [
+  "2026-11-19": [
    [
     "05:20",
     "05:30",
@@ -1259,7 +1259,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-16": [
+  "2026-11-20": [
    [
     "05:20",
     "05:30",
@@ -1327,7 +1327,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-17": [
+  "2026-11-21": [
    [
     "05:20",
     "06:30",
@@ -1372,7 +1372,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-18": [
+  "2026-11-22": [
    [
     "05:20",
     "07:25",
@@ -1414,7 +1414,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-19": [
+  "2026-11-23": [
    [
     "05:20",
     "05:30",
@@ -1481,7 +1481,7 @@
     "Lights Out"
    ]
   ],
-  "2026-10-20": [
+  "2026-11-24": [
    [
     "05:20",
     "07:55",
@@ -1603,433 +1603,8 @@
    "Rice / Stew / Fish"
   ]
  ],
- "fixtures": [
-  {
-   "d": "2026-10-05",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 1,
-   "stage": "Round 1",
-   "a": "3",
-   "b": "1",
-   "note": ""
-  },
-  {
-   "d": "2026-10-05",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 1,
-   "stage": "Round 1",
-   "a": "8",
-   "b": "4",
-   "note": ""
-  },
-  {
-   "d": "2026-10-05",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 1,
-   "stage": "Round 1",
-   "a": "5",
-   "b": "2",
-   "note": ""
-  },
-  {
-   "d": "2026-10-06",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 2,
-   "stage": "Round 1",
-   "a": "10",
-   "b": "8",
-   "note": ""
-  },
-  {
-   "d": "2026-10-06",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 2,
-   "stage": "Round 1",
-   "a": "2",
-   "b": "9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-06",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 2,
-   "stage": "Round 1",
-   "a": "8",
-   "b": "6",
-   "note": ""
-  },
-  {
-   "d": "2026-10-07",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 3,
-   "stage": "Round 1",
-   "a": "2",
-   "b": "5",
-   "note": ""
-  },
-  {
-   "d": "2026-10-07",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 3,
-   "stage": "Round 1",
-   "a": "10",
-   "b": "6",
-   "note": ""
-  },
-  {
-   "d": "2026-10-07",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 3,
-   "stage": "Round 1",
-   "a": "1",
-   "b": "7",
-   "note": ""
-  },
-  {
-   "d": "2026-10-08",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 4,
-   "stage": "Round 1",
-   "a": "6",
-   "b": "9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-08",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 4,
-   "stage": "Round 1",
-   "a": "1",
-   "b": "5",
-   "note": ""
-  },
-  {
-   "d": "2026-10-08",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 4,
-   "stage": "Round 1",
-   "a": "10",
-   "b": "3",
-   "note": "",
-   "sa": "0",
-   "sb": "1",
-   "win": "b"
-  },
-  {
-   "d": "2026-10-09",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 5,
-   "stage": "Round 1",
-   "a": "7",
-   "b": "4",
-   "note": ""
-  },
-  {
-   "d": "2026-10-09",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 5,
-   "stage": "Round 1",
-   "a": "3",
-   "b": "7",
-   "note": ""
-  },
-  {
-   "d": "2026-10-09",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 5,
-   "stage": "Round 1",
-   "a": "4",
-   "b": "9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "07:00",
-   "sport": "Football",
-   "no": 6,
-   "stage": "Quarter-final",
-   "a": "W1",
-   "b": "W2",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 6,
-   "stage": "Quarter-final",
-   "a": "W1",
-   "b": "W2",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "08:00",
-   "sport": "Volleyball",
-   "no": 6,
-   "stage": "Quarter-final",
-   "a": "W1",
-   "b": "W2",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 7,
-   "stage": "Quarter-final",
-   "a": "W3",
-   "b": "W4",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 7,
-   "stage": "Quarter-final",
-   "a": "W3",
-   "b": "W4",
-   "note": ""
-  },
-  {
-   "d": "2026-10-10",
-   "t": "17:00",
-   "sport": "Badminton (singles)",
-   "no": 7,
-   "stage": "Quarter-final",
-   "a": "W3",
-   "b": "W4",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "07:00",
-   "sport": "Football",
-   "no": 8,
-   "stage": "Quarter-final",
-   "a": "W5",
-   "b": "BL1",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 8,
-   "stage": "Quarter-final",
-   "a": "W5",
-   "b": "BL1",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 9,
-   "stage": "Quarter-final",
-   "a": "BL2",
-   "b": "BL3",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 9,
-   "stage": "Quarter-final",
-   "a": "BL2",
-   "b": "BL3",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "17:00",
-   "sport": "Badminton (singles)",
-   "no": 9,
-   "stage": "Quarter-final",
-   "a": "BL2",
-   "b": "BL3",
-   "note": ""
-  },
-  {
-   "d": "2026-10-11",
-   "t": "20:00",
-   "sport": "Volleyball",
-   "no": 8,
-   "stage": "Quarter-final",
-   "a": "W5",
-   "b": "BL1",
-   "note": "Printed as 8:00 PM. Confirm the time with your platoon"
-  },
-  {
-   "d": "2026-10-12",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 10,
-   "stage": "Semi-final",
-   "a": "W6",
-   "b": "W7",
-   "note": ""
-  },
-  {
-   "d": "2026-10-12",
-   "t": "15:00",
-   "sport": "Athletics",
-   "no": null,
-   "stage": "Heats",
-   "a": "",
-   "b": "",
-   "note": ""
-  },
-  {
-   "d": "2026-10-12",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 10,
-   "stage": "Semi-final",
-   "a": "W6",
-   "b": "W7",
-   "note": ""
-  },
-  {
-   "d": "2026-10-12",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 10,
-   "stage": "Semi-final",
-   "a": "W6",
-   "b": "W7",
-   "note": ""
-  },
-  {
-   "d": "2026-10-13",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 11,
-   "stage": "Semi-final",
-   "a": "W8",
-   "b": "W9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-13",
-   "t": "15:00",
-   "sport": "Athletics",
-   "no": null,
-   "stage": "Heats final",
-   "a": "",
-   "b": "",
-   "note": ""
-  },
-  {
-   "d": "2026-10-13",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 11,
-   "stage": "Semi-final",
-   "a": "W8",
-   "b": "W9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-13",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 11,
-   "stage": "Semi-final",
-   "a": "W8",
-   "b": "W9",
-   "note": ""
-  },
-  {
-   "d": "2026-10-14",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 14,
-   "stage": "Third place",
-   "a": "L10",
-   "b": "L11",
-   "note": ""
-  },
-  {
-   "d": "2026-10-14",
-   "t": "17:00",
-   "sport": "Volleyball",
-   "no": 14,
-   "stage": "Third place",
-   "a": "L10",
-   "b": "L11",
-   "note": ""
-  },
-  {
-   "d": "2026-10-14",
-   "t": "17:00",
-   "sport": "Football",
-   "no": 14,
-   "stage": "Third place",
-   "a": "L10",
-   "b": "L11",
-   "note": ""
-  },
-  {
-   "d": "2026-10-16",
-   "t": "07:00",
-   "sport": "Badminton (singles)",
-   "no": 15,
-   "stage": "Final",
-   "a": "W10",
-   "b": "W11",
-   "note": ""
-  },
-  {
-   "d": "2026-10-16",
-   "t": "15:00",
-   "sport": "Volleyball",
-   "no": 15,
-   "stage": "Final",
-   "a": "W10",
-   "b": "W11",
-   "note": ""
-  },
-  {
-   "d": "2026-10-16",
-   "t": "15:00",
-   "sport": "Football",
-   "no": 15,
-   "stage": "Final",
-   "a": "W10",
-   "b": "W11",
-   "note": ""
-  }
- ],
- "announcements": [
-  {
-   "id": "n1791466303957",
-   "title": "Test Announcement ",
-   "body": "Demo Announcement ",
-   "urgent": true,
-   "from": "2026-10-08",
-   "to": "2026-10-09",
-   "postedAt": "2026-10-08T13:31:43.957Z",
-   "by": "Alescio"
-  }
- ],
+ "fixtures": [],
+ "announcements": [],
  "bestLosers": {},
  "standings": {
   "visible": false,
@@ -2045,24 +1620,23 @@
     "id": "s-dancehall",
     "kind": "social",
     "name": "Inter-Platoon Dance Hall Competition",
-    "d": "2026-10-03",
+    "d": "2026-11-07",
     "places": [
-     "4",
-     "3",
-     "10",
+     "",
+     "",
+     "",
      ""
-    ],
-    "sample": true
+    ]
    },
    {
     "id": "s-talent",
     "kind": "social",
     "name": "Inter-Platoon Talent Hunt / Comedy Night",
-    "d": "2026-10-05",
+    "d": "2026-11-09",
     "places": [
-     "1",
-     "2",
-     "3",
+     "",
+     "",
+     "",
      ""
     ]
    },
@@ -2070,11 +1644,11 @@
     "id": "s-cultural",
     "kind": "social",
     "name": "Inter-Platoon Cultural Dance Competition",
-    "d": "2026-10-07",
+    "d": "2026-11-11",
     "places": [
-     "2",
-     "3",
-     "5",
+     "",
+     "",
+     "",
      ""
     ]
    },
@@ -2082,20 +1656,19 @@
     "id": "s-drama",
     "kind": "social",
     "name": "Inter-Platoon Drama Competition",
-    "d": "2026-10-09",
+    "d": "2026-11-13",
     "places": [
-     "2",
-     "6",
-     "9",
+     "",
+     "",
+     "",
      ""
-    ],
-    "sample": true
+    ]
    },
    {
     "id": "s-oldschool",
     "kind": "social",
     "name": "Old-school Night",
-    "d": "2026-10-10",
+    "d": "2026-11-14",
     "places": [
      "",
      "",
@@ -2107,7 +1680,7 @@
     "id": "s-petite",
     "kind": "social",
     "name": "Miss Petite / Mr Tall and Handsome",
-    "d": "2026-10-12",
+    "d": "2026-11-16",
     "places": [
      "",
      "",
@@ -2119,7 +1692,7 @@
     "id": "a-final",
     "kind": "athletics",
     "name": "Athletics final",
-    "d": "2026-10-13",
+    "d": "2026-11-17",
     "places": [
      "",
      "",
@@ -2131,7 +1704,7 @@
     "id": "s-bbb",
     "kind": "social",
     "name": "Miss Big Bold & Beautiful / Mr Big Bold & Handsome",
-    "d": "2026-10-13",
+    "d": "2026-11-17",
     "places": [
      "",
      "",
@@ -2143,7 +1716,7 @@
     "id": "s-missnysc",
     "kind": "social",
     "name": "Miss NYSC & Mr Macho",
-    "d": "2026-10-14",
+    "d": "2026-11-18",
     "places": [
      "",
      "",
@@ -2155,7 +1728,7 @@
     "id": "s-choreo",
     "kind": "social",
     "name": "Inter-Platoon Choreography Competition",
-    "d": "2026-10-15",
+    "d": "2026-11-19",
     "places": [
      "",
      "",
@@ -2167,7 +1740,7 @@
     "id": "s-carnival",
     "kind": "social",
     "name": "Cultural Carnival",
-    "d": "2026-10-17",
+    "d": "2026-11-21",
     "places": [
      "",
      "",
@@ -2179,11 +1752,11 @@
     "id": "s-debate",
     "kind": "social",
     "name": "Inter-Platoon Debate Competition",
-    "d": "2026-10-10",
+    "d": "2026-11-14",
     "places": [
-     "1",
-     "9",
-     "2",
+     "",
+     "",
+     "",
      ""
     ],
     "note": "Topic: Start a successful career and business through personal community development project: A Call To Leadership"
